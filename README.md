@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### 說明
+
+創造食積，一個簡單的FoodOrder web app設計，美食不落空，只要碗裡滿滿的人生就不會空虛
+
+### 主要功能
+目前只有一個簡單的購物車，可以增加你想要的食物在裡面
+
+### 未來規劃
+未來打算將它變成一個Multi-Page SPA，增加其他的功能項目在裡面
+
+### 使用技術棧
+React
+
