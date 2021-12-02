@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Alternative-Map-of-Athens-1-hex { color: #7BA68A; }
+.Alternative-Map-of-Athens-2-hex { color: #F2E8C9; }
+.Alternative-Map-of-Athens-3-hex { color: #F27830; }
+.Alternative-Map-of-Athens-4-hex { color: #F26430; }
+.Alternative-Map-of-Athens-5-hex { color: #D93829; }
+
+/* Color Theme Swatches in RGBA */
+.Alternative-Map-of-Athens-1-rgba { color: rgba(122, 165, 137, 1); }
+.Alternative-Map-of-Athens-2-rgba { color: rgba(242, 231, 201, 1); }
+.Alternative-Map-of-Athens-3-rgba { color: rgba(242, 119, 48, 1); }
+.Alternative-Map-of-Athens-4-rgba { color: rgba(242, 100, 48, 1); }
+.Alternative-Map-of-Athens-5-rgba { color: rgba(216, 55, 41, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Alternative-Map-of-Athens-1-hsla { color: hsla(140, 19, 56, 1); }
+.Alternative-Map-of-Athens-2-hsla { color: hsla(45, 61, 86, 1); }
+.Alternative-Map-of-Athens-3-hsla { color: hsla(22, 88, 56, 1); }
+.Alternative-Map-of-Athens-4-hsla { color: hsla(16, 88, 56, 1); }
+.Alternative-Map-of-Athens-5-hsla { color: hsla(5, 69, 50, 1); }
